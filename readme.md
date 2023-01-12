@@ -1,9 +1,17 @@
-# Heyy Welcome
+
+# A quiz about incredible INDIA :
+
+This is the CLI based app quiz , which is made by using javascript and created in replit
+
+In this quiz i added some information about our incredible INDIA
+ 
+After playing the quiz ,at the end it will display the score and it is also display the high scores
 
 
-This is a CLI quiz 
+## click here👇
+[![click here](https://img.shields.io/badge/click-here?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@PrajwalTR/MARK2-prajwal-tr?v=1)
 
 
-You can play the quiz and score points
+## Technology used👇
+* javascript
 
-You can check out my CLI APP here https://replit.com/@PrajwalTR/MARK1-prajwal-tr?v=1
